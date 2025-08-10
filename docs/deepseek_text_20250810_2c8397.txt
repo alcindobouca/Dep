@@ -1,0 +1,5 @@
+docs/
+├── index.html
+├── app.js
+├── styles.css
+└── firebase-config.js   <-- Este novo arquivo!
